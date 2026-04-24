@@ -23,8 +23,8 @@ export const Hero = () => {
             className="mt-5 font-display text-4xl font-extrabold leading-[1.05] tracking-tight text-foreground sm:text-5xl md:text-6xl lg:text-7xl animate-fade-in-up"
             style={{ animationDelay: "150ms" }}
           >
-            Bags Built for Quality.{" "}
-            <span className="text-primary">Priced for Everyone.</span>
+            Super Affordable Bags.{" "}
+            <span className="text-primary">Without Compromise.</span>
           </h1>
           <p
             className="mt-5 max-w-xl text-base leading-relaxed text-muted-foreground md:text-lg animate-fade-in-up"
